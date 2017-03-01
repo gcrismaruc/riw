@@ -1,5 +1,6 @@
 package lab1;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -36,6 +37,10 @@ public class HTMLDocument {
 	public void setUrl(String url) throws IOException {
 		document = Jsoup.connect(url).get();
 		currentUrl = url;
+	}
+
+	public void setDocumentFromFile(File url) throws IOException {
+		document = Jsoup.parse(url, "UTF-8");
 	}
 	public void getTitle() throws IOException {
 		System.out.println(document.title());

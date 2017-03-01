@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * Created by Gheorghe on 2/23/2017.
@@ -19,25 +20,37 @@ public class FileLoader {
 
     public List<File> getFiles(String directoryName) throws IOException {
 
-        List<Path> paths = new ArrayList<Path>();
-        try{
-            DirectoryStream<Path> stream = Files.newDirectoryStream(directoryName, "*.{c,h,cpp,hpp,java,html}");
+        File targetDir = getTargetFile(directoryName);
 
-            for (Path entry: stream) {
-                paths.add(entry);
-            }
-        } catch (DirectoryIteratorException ex) {
-            // I/O error encounted during the iteration, the cause is an IOException
-            throw ex.getCause();
+        List<File> filesInFolder = Files.walk(Paths.get(targetDir.getAbsolutePath()))
+                .filter(Files::isRegularFile)
+                .map(Path::toFile)
+                .collect(Collectors.toList());
+
+
+
+        return filesInFolder;
+    }
+
+    public static File getTargetFile(String directoryName) throws IOException {
+        File currentDir = new File( "." ); // Read current file location
+        File targetDir = null;
+        if (currentDir.isDirectory()) {
+            File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
+            targetDir = new File( parentDir, "Riw\\src\\" + directoryName + "\\" ); // Construct the target directory file with the right parent directory
         }
 
-        List<File> files = new ArrayList<File>();
+        return targetDir;
+    }
 
-        for(Path path : paths){
-            System.out.println(path);
-            files.add(path.toFile());
+    public static File getResourceFile(String fileName) throws IOException {
+        File currentDir = new File( "." ); // Read current file location
+        File targetDir = null;
+        if (currentDir.isDirectory()) {
+            File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
+            targetDir = new File( parentDir, "Riw\\src\\main\\resources\\" + fileName); // Construct the target directory file with the right parent directory
         }
 
-        return files;
+        return targetDir;
     }
 }
