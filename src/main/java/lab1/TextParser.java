@@ -3,34 +3,33 @@ package lab1;
 import lab2.ExceptionWords;
 import lab2.StopWords;
 
+import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 
 public class TextParser {
 	private Map<String, Integer> aparitii;
 
+
 	public TextParser(){
 		aparitii = new HashMap<String, Integer>();
 	}
-
 
 	public Map<String, Integer> getAparitii() {
 		return aparitii;
 	}
 
-	public  Map<String, Integer> getParsedWords(String text) {
+	public static Map<String, Integer> getParsedWords(String text) {
 
 		StringBuilder word = new StringBuilder();
 		Map<String, Integer> words = new HashMap<>();
 
 		for(int i = 0; i < text.length(); i++) {
-
-			if(!Character.isLetter(text.charAt(i))){
+			if(!Character.isLetter(text.charAt(i)) && text.charAt(i) != '\''){
 				if(words.containsKey(word.toString())) {
 					int count = words.get(word.toString());
 					words.put(word.toString(), count + 1);
 				}else {
-
 					if (!word.toString().equals("")) {
 						if(!StopWords.stopWords.contains(word)) {
 							if(ExceptionWords.exceptionWords.contains(word)) {
@@ -50,7 +49,7 @@ public class TextParser {
 		return words;
 	}
 
-	private String getCanonicalForm(String word){
+	private static String getCanonicalForm(String word){
 		return word;
 	}
 
@@ -60,7 +59,7 @@ public class TextParser {
 
 		for(int i = 0; i < text.length(); i++) {
 
-			if(!Character.isLetter(text.charAt(i))){
+			if(!Character.isLetter(text.charAt(i)) && text.charAt(i) != '\''){
 				if(aparitii.containsKey(word.toString())) {
 					int count = aparitii.get(word.toString());
 					aparitii.put(word.toString(), count + 1);
@@ -75,6 +74,8 @@ public class TextParser {
 			}
 		}
 	}
+
+
 
 	public void printWords(String text) {
 		getWords(text);

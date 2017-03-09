@@ -18,17 +18,19 @@ public class FileLoader {
         this.directoryName = directoryName;
     }
 
-    public List<File> getFiles(String directoryName) throws IOException {
+    public FileLoader(){
+
+    }
+
+    public static List<File> getFiles(String directoryName) throws IOException {
 
         File targetDir = getTargetFile(directoryName);
 
         List<File> filesInFolder = Files.walk(Paths.get(targetDir.getAbsolutePath()))
                 .filter(Files::isRegularFile)
                 .map(Path::toFile)
+                .filter(p -> p.getName().contains(".html"))
                 .collect(Collectors.toList());
-
-
-
         return filesInFolder;
     }
 
@@ -39,7 +41,6 @@ public class FileLoader {
             File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
             targetDir = new File( parentDir, "Riw\\src\\" + directoryName + "\\" ); // Construct the target directory file with the right parent directory
         }
-
         return targetDir;
     }
 
@@ -50,7 +51,6 @@ public class FileLoader {
             File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
             targetDir = new File( parentDir, "Riw\\src\\main\\resources\\" + fileName); // Construct the target directory file with the right parent directory
         }
-
         return targetDir;
     }
 }

@@ -1,5 +1,7 @@
 package lab2;
 
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,6 +22,15 @@ public class ExceptionWords {
 
     public List<String> getExceptionWords() {
         return exceptionWords;
+    }
+
+    public static void loadExceptionWords(){
+//        String data = new String(Files.readAllBytes(FileLoader.getResourceFile("stopWords").toPath()), StandardCharsets.UTF_8);
+//
+//        textParser.getWords(data);
+//        StopWords.stopWords = new ArrayList<>(textParser.getAparitii().keySet());
+
+        ExceptionWords.exceptionWords = new ArrayList<>();
     }
 
 }

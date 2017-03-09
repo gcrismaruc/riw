@@ -1,0 +1,6 @@
+{
+  "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.html" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
+  "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.html" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
+  "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.html" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
+  "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.html" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc"
+}
