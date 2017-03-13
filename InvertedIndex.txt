@@ -28,20 +28,8 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
-  "without" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  } ],
   "Ideas" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "via" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "these" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "trip" : [ {
@@ -50,16 +38,6 @@
   }, {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "would" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
   }, {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
@@ -85,19 +63,6 @@
   } ],
   "moving" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "you" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 1
   } ],
   "knowledge" : [ {
@@ -132,16 +97,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
-  "an" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 6
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
   "astonishing" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -153,26 +108,9 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "as" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
-  } ],
   "Served" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "at" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 4
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 4
   } ],
   "Game" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
@@ -184,10 +122,6 @@
   } ],
   "science" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "much" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "Waltz" : [ {
@@ -204,13 +138,6 @@
   "A" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 1
-  } ],
-  "be" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 5
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 4
   } ],
   "independent" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -247,16 +174,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "how" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
   "Resonate" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 3
@@ -277,17 +194,6 @@
   } ],
   "Institute" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "by" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 3
-  } ],
-  "indicate" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "Workshop" : [ {
@@ -330,33 +236,8 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "right" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "possible" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "co" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
   "Gleimstrasse" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "the" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 22
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 18
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 17
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 1
   } ],
   "s" : [ {
@@ -470,16 +351,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "got" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 1
-  } ],
   "Niels" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
@@ -502,10 +373,6 @@
   } ],
   "implement" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "which" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "Festival" : [ {
@@ -531,20 +398,12 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "its" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
   "check" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
   } ],
   "article" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "regarding" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "Dr" : [ {
@@ -576,14 +435,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
-  "therefore" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "little" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
   "Volvere" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
@@ -603,16 +454,6 @@
   "provided" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 2
-  } ],
-  "for" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 5
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 4
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
   } ],
   "Motionbank" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -670,16 +511,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "over" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
   "pioneers" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -709,13 +540,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "with" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 5
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
-  } ],
   "Liability" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
@@ -732,19 +556,8 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "there" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "magazine" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  } ],
-  "he" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 2
   } ],
   "age" : [ {
@@ -762,13 +575,6 @@
     "value" : 1
   } ],
   "referred" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "very" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
-  }, {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
@@ -851,10 +657,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "if" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "He" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 4
@@ -875,19 +677,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "in" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 6
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 6
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 1
-  } ],
   "director" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
@@ -895,16 +684,6 @@
   "advisors" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "is" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 5
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 4
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 3
   } ],
   "Reflection" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
@@ -986,10 +765,6 @@
   } ],
   "renown" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "other" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "May" : [ {
@@ -1098,13 +873,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "able" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "choreographed" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 2
@@ -1145,15 +913,7 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "use" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 4
-  } ],
   "Schmuck" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "that" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
@@ -1193,10 +953,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "different" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
-  } ],
   "selected" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -1214,20 +970,6 @@
   }, {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "all" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "new" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
   } ],
   "including" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
@@ -1294,10 +1036,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "were" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
-  } ],
   "obligation" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
@@ -1329,24 +1067,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "since" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
-  } ],
-  "became" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "no" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 1
-  } ],
   "respective" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 2
@@ -1365,13 +1085,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "around" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
   "Any" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
@@ -1380,34 +1093,8 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "and" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 16
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 10
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 22
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 5
-  } ],
   "intended" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "of" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 18
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 13
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 9
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 1
   } ],
   "design" : [ {
@@ -1424,20 +1111,6 @@
   "Weave" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 4
-  } ],
-  "on" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 5
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
-  } ],
-  "or" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 7
   } ],
   "nature" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
@@ -1457,10 +1130,6 @@
   "control" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
-  } ],
-  "any" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 6
   } ],
   "friction" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
@@ -1516,13 +1185,6 @@
   "Node" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
-  } ],
-  "about" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
   } ],
   "led" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -1587,14 +1249,6 @@
     "value" : 1
   } ],
   "NODE" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  } ],
-  "want" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "then" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
   } ],
@@ -1682,10 +1336,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "into" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
   "mio" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
@@ -1702,17 +1352,6 @@
     "value" : 1
   }, {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "are" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 4
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "unless" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "Bboy" : [ {
@@ -1763,20 +1402,9 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
   } ],
-  "one" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "started" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "many" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
   } ],
   "people" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -1784,10 +1412,6 @@
   } ],
   "Reboot" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 1
-  } ],
-  "such" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "Hasso" : [ {
@@ -1801,19 +1425,6 @@
   "collaboration" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
-  } ],
-  "to" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 26
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 12
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 6
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 1
   } ],
   "invite" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -1830,10 +1441,6 @@
     "value" : 1
   } ],
   "Scott" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "through" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
@@ -1902,26 +1509,8 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
   } ],
-  "has" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  } ],
   "CEBIT" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
-    "value" : 1
-  } ],
-  "us" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "those" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
     "value" : 1
   } ],
   "US" : [ {
@@ -1947,19 +1536,7 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 1
   } ],
-  "might" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "adapt" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "this" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  } ],
-  "please" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
@@ -1977,10 +1554,6 @@
   } ],
   "HCI" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "name" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
   "support" : [ {
@@ -2017,23 +1590,9 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "we" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 8
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 3
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 3
-  } ],
   "shot" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
-  } ],
-  "not" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 7
   } ],
   "specializing" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
@@ -2049,13 +1608,6 @@
   "Wutal" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "was" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
   } ],
   "start" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -2078,16 +1630,6 @@
   "engineer" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "way" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
   } ],
   "We" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -2217,10 +1759,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 1
   } ],
-  "come" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
   "Booking" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -2310,16 +1848,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
   } ],
-  "our" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 5
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
-  } ],
   "pictures" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -2360,10 +1888,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "course" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
   "event" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -2378,10 +1902,6 @@
   } ],
   "Movie" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "more" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
   "caused" : [ {
@@ -2434,16 +1954,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "his" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 2
-  } ],
   "princemio" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 2
@@ -2469,27 +1979,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 5
   } ],
-  "only" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
-  "few" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "from" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 2
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
   "Baudisch" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
@@ -2500,16 +1989,6 @@
   } ],
   "proud" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  } ],
-  "like" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
   "workshop" : [ {
@@ -2602,10 +2081,6 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
-  "who" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "covering" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
@@ -2633,10 +2108,6 @@
   "Science" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
-  } ],
-  "their" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 3
   } ],
   "Digital" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
@@ -2701,23 +2172,12 @@
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
-  "will" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
-    "value" : 4
-  }, {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",
-    "value" : 1
-  } ],
   "studied" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
     "value" : 1
   } ],
   "Plattner" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\about\\About1.idc",
-    "value" : 1
-  } ],
-  "also" : [ {
-    "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\lab\\p.idc",
     "value" : 1
   } ],
   "From" : [ {
@@ -2740,7 +2200,6 @@
   }, {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\sample-page\\work\\AboutprinceMio.idc",
     "value" : 2
-
   } ],
   "duplication" : [ {
     "key" : "E:\\riw\\Riw\\src\\working_dir\\princemio.net\\contact\\sss.idc",

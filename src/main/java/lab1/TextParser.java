@@ -31,8 +31,8 @@ public class TextParser {
 					words.put(word.toString(), count + 1);
 				}else {
 					if (!word.toString().equals("")) {
-						if(!StopWords.stopWords.contains(word)) {
-							if(ExceptionWords.exceptionWords.contains(word)) {
+						if(!StopWords.stopWords.contains(word.toString())) {
+							if(ExceptionWords.exceptionWords.contains(word.toString())) {
 								words.put(word.toString(), 1);
 							}else{
 								words.put(getCanonicalForm(word.toString()), 1);

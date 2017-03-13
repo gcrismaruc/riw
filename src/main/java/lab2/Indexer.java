@@ -6,6 +6,7 @@ import javafx.scene.shape.Path;
 import javafx.util.Pair;
 import lab1.HTMLDocument;
 import lab1.TextParser;
+import lab4.MyPair;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -125,4 +126,18 @@ public class Indexer {
         File invertedMappedIndex = new File("InvertedMappedFile.txt");
         objectMapper.writerWithDefaultPrettyPrinter().writeValue(invertedMappedIndex, wordToInvertedIndex);
     }
+
+    public static Map<String, String> getInvertedMappedIndex() throws IOException {
+        Map<String, String> invertedMappedIndex = objectMapper.readValue(new File("InvertedMappedFile.txt"), new TypeReference<HashMap<String,Object>>() {});
+
+        return invertedMappedIndex;
+    }
+
+    public static Map<String, List<MyPair>> getInvertedIndex() throws IOException {
+        Map<String, List<MyPair>> invertedIndex = objectMapper.readValue(new File("InvertedIndex.txt"), new TypeReference<HashMap<String, List<MyPair>>>() {});
+
+        return invertedIndex;
+    }
+
+
 }
